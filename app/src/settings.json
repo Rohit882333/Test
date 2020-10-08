@@ -1,0 +1,6 @@
+{
+    "proguard": false,
+    "androidx": true,
+    "stringFog": false,
+    "libs": []
+}
